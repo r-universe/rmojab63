@@ -8,3 +8,8 @@
 	url = https://github.com/cran/ldt
 	shallow = true
 	registered = true
+[submodule "tdata"]
+	path = tdata
+	url = https://github.com/cran/tdata
+	shallow = true
+	registered = true
